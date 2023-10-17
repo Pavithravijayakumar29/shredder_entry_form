@@ -1,0 +1,197 @@
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:18:11 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 440
+[08-Sep-2022 17:18:48 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:19:12 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:19:42 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:20:01 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 440
+[08-Sep-2022 17:25:24 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:25:36 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:28:18 Asia/Kolkata] PHP Notice:  Undefined variable: total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 440
+[08-Sep-2022 17:28:29 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 440
+[08-Sep-2022 17:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:29:19 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 440
+[08-Sep-2022 17:29:32 Asia/Kolkata] PHP Notice:  Use of undefined constant shift_name - assumed 'shift_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 60
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php:3) in /home/zigmaglobal/public_html/erp/model/config_pdo.php on line 7
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant shredder_no - assumed 'shredder_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 207
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant main_id - assumed 'main_id' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 209
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant random_no - assumed 'random_no' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 211
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant random_sc - assumed 'random_sc' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 212
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant plant - assumed 'plant' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 42
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Undefined index: shift_name in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 241
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant site_name - assumed 'site_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 33
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Use of undefined constant staff_name - assumed 'staff_name' in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 50
+[08-Sep-2022 17:32:30 Asia/Kolkata] PHP Notice:  Undefined variable: tot_total_value in /home/zigmaglobal/public_html/erp/shredder_entry_form/shredder_entry_view.php on line 453
+[23-Jun-2023 18:37:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:37:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:37:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:37:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:37:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:37:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:45 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:45 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:38:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:39:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:39:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 29
+[23-Jun-2023 18:41:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 34
+[23-Jun-2023 18:41:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 34
+[23-Jun-2023 18:42:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 37
+[23-Jun-2023 18:42:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 37
+[23-Jun-2023 18:42:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 37
+[23-Jun-2023 18:42:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 37
+[23-Jun-2023 18:44:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 32
+[23-Jun-2023 18:44:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 32
+[23-Jun-2023 18:44:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 32
+[23-Jun-2023 18:44:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 32
+[23-Jun-2023 18:44:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:44:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:44:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:44:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:45:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:45:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:45:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:45:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:45:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:45:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 31
+[23-Jun-2023 18:48:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 30
+[23-Jun-2023 18:48:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method PDO::close() in /home/zigmaglobal/public_html/erp/shredder_entry_form/closing.php on line 30
